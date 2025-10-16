@@ -4,15 +4,15 @@ This repository contains code for creating pixel art (displayed as tables) using
 
 Results:
 
-![]()
+![Avocado pixel art]()
 
-![]()
+![Posit logo pixel art]()
 
 ## How to use
 
-* The code can be found in the `gt_pixel_art.R` file located [here]().
+* The code can be found in the `gt_pixel_art.R` file located [here](https://github.com/melissavanbussel/gt-pixel-art/blob/main/gt_pixel_art.R).
 * Start by installing the required packages if you don't already have them installed. This can be done using the `install.packages()` function. You will need to have the `openxlsx2` and `gt` packages installed.
-* Create an Excel file that has the pixel art you would like to create. You can see an example Excel file in the `design.xlsx` file located [here](). See the ["Notes"]() section below for some caveats!
+* Create an Excel file that has the pixel art you would like to create. You can see an example Excel file in the `design.xlsx` file located [here](https://github.com/melissavanbussel/gt-pixel-art/blob/main/design.xlsx). See the ["Notes"](https://github.com/melissavanbussel/gt-pixel-art/blob/main/README.md#notes) section below for some caveats!
 
 ## How it works
 
