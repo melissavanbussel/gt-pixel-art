@@ -4,9 +4,9 @@ This repository contains code for creating pixel art (displayed as tables) using
 
 Results:
 
-![Posit logo pixel art](pixel_art_posit.png)
+<img src="pixel_art_posit.png" width="250">
 
-![Avocado pixel art](pixel_art_avocado.png)
+<img src="pixel_art_avocado.png" width="250">
 
 ## How to use
 
